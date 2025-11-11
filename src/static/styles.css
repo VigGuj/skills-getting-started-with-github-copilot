@@ -177,6 +177,22 @@ footer {
   color: #1a237e;
 }
 
+.participant-remove {
+  margin-left: auto;
+  background: transparent;
+  border: none;
+  color: #c62828;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 4px 6px;
+  border-radius: 4px;
+  line-height: 1;
+}
+
+.participant-remove:hover {
+  background: rgba(198,40,40,0.08);
+}
+
 .participant-badge {
   width: 32px;
   height: 32px;
